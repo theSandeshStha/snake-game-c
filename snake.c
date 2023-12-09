@@ -1,7 +1,4 @@
 /*
-Author: Matthew Vlietstra
-Version: 0.5
-Date: 28/09/2010
 
 Discription:
 This is a console snake game that can (or should) work in linux & windows environments.
@@ -330,7 +327,7 @@ void refreshInfoBar(int score, int speed)
 	printf("Speed: %d", speed);
 
 	gotoxy(52,23);
-	printf("Coder: Matthew Vlietstra");
+	printf("Coder: Sandesh Shrestha");
 
 	gotoxy(52,24);
 	printf("Version: 0.5");
